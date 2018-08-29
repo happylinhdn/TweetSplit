@@ -20,3 +20,7 @@ Another Skill:
    - Room architecture
    - Recycler, CardView, FragmentActivity, Fragment
    - RxJava
+
+UnitTest:
+   - Open terminal at root folder of project, type command: ./gradlew test
+   - Open to see the result of unit test: TweetSplit/app/build/reports/tests/testDebugUnitTest/packages/zalora.twitsplit.html
